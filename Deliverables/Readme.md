@@ -32,14 +32,16 @@ LINK
 ΕΦΑΡΜΟΓΕΣ
 
 Για τα διαφορα στοιχεία της εφαρμογής, χρησιμοποιήθηκαν τα προγράμματα και ιστότοποι:
-Adobe photoshop 
-Adobe premiere pro 
-Blender
-Online sequencer 
-Chatgtp
-DaVinci resolve 
-Adobe illustrator 
-MindAr
+ <li>
+  Adobe photoshop 
+  Adobe premiere pro 
+  Blender
+  Online sequencer 
+  Chatgtp
+  DaVinci resolve 
+  Adobe illustrator 
+  MindAr
+ <li>
 
 Υ.Γ.
 Σε περίπτωση που τα κλειδιά δεν είναι στην θυρωρό, εννοείτε ότι το στούντιο είναι ανοιχτό και ο χρήστης μπορεί αν συνεχίσει χωρίς αυτά.
