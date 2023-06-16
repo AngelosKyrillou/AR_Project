@@ -36,14 +36,14 @@ LINK
 ΕΦΑΡΜΟΓΕΣ
 
 Για τα διαφορα στοιχεία της εφαρμογής, χρησιμοποιήθηκαν τα προγράμματα και ιστότοποι:
- <li>
 
-Adobe photoshop 
- <li>
+
+<li>Adobe photoshop 
+
 
 Adobe premiere pro 
-   <li>
-    
+
+
 Blender
     
 Online sequencer 
@@ -54,7 +54,7 @@ DaVinci resolve
     
 Adobe illustrator 
     
-MindAr
+MindAr<li>
 
 
 
