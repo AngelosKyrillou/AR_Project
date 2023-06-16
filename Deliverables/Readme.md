@@ -41,20 +41,20 @@ LINK
 <li>Adobe photoshop 
 
 
-Adobe premiere pro 
+<li>Adobe premiere pro 
 
 
-Blender
+<li>Blender
     
-Online sequencer 
+<li>Online sequencer 
     
-Chatgtp
+<li>Chatgtp
     
-DaVinci resolve 
+<li>DaVinci resolve 
     
-Adobe illustrator 
+<li>Adobe illustrator 
     
-MindAr<li>
+<li>MindAr
 
 
 
