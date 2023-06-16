@@ -34,17 +34,17 @@ LINK
 Για τα διαφορα στοιχεία της εφαρμογής, χρησιμοποιήθηκαν τα προγράμματα και ιστότοποι:
  <li>
 
- Adobe photoshop 
+Adobe photoshop 
  <li>
   <li>
-  Adobe premiere pro 
+Adobe premiere pro 
    <li>
-  Blender
-  Online sequencer 
-  Chatgtp
-  DaVinci resolve 
-  Adobe illustrator 
-  MindAr
+Blender
+Online sequencer 
+Chatgtp
+DaVinci resolve 
+Adobe illustrator 
+MindAr
 
 
 
