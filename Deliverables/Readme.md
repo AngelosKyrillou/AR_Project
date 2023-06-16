@@ -40,14 +40,20 @@ LINK
 
 Adobe photoshop 
  <li>
-  <li>
+
 Adobe premiere pro 
    <li>
+    
 Blender
+    
 Online sequencer 
+    
 Chatgtp
+    
 DaVinci resolve 
+    
 Adobe illustrator 
+    
 MindAr
 
 
